@@ -1,0 +1,5 @@
+﻿{
+  "appSettings": {
+    "bot_setting": "data source=aaaaaaaa.bbbbbbbbbbbb.us-west-2.rds.amazonaws.com,1433;initial catalog=cccccccc;persist security info=True;user id=ddddddd;password=eeeeeeee;MultipleActiveResultSets=True;App=EntityFramework"
+  }
+}
